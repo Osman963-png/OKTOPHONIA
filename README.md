@@ -1,8 +1,7 @@
 
 # OKTOPHONIA
 
-Projeto em Python para estudo de geometria.
-
+Projeto  desenvolvido em Python para estudo de geometria Teoria das Cores de Goethe música acusmática
 ## Recursos
 
 - Octógonos regulares
@@ -19,4 +18,4 @@ Projeto em Python para estudo de geometria.
 
 ## Autor
 
-Luiz Oscar da Costa
+Luiz Ocosta oscar osman
