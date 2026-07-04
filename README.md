@@ -1,21 +1,22 @@
 
 # OKTOPHONIA
 
-Projeto  desenvolvido em Python para estudo de geometria Teoria das Cores de Goethe música acusmática
+Projeto desenvolvido em Python para explorar conceitos de Geometria, Teoria das Cores de Goethe e Música Acusmática por meio de visualizações gráficas e modelos tridimensionais.
+
 ## Recursos
 
-- Octógonos regulares
-- Prismas tridimensionais
-- Turtle Graphics
-- Visualizações geométricas
+- Construção de octógonos regulares
+- Geração de prismas tridimensionais
+- Visualizações com Turtle Graphics
+- Experimentação artística e geométrica
 
 ## Arquivos principais
 
-- oktophonia.py
-- octogono_regular.py
-- prisma_tridimensional.py
-- modulo_turtle_3D_simplificado.py
+- `oktophonia.py`
+- `octogono_regular.py`
+- `prisma_tridimensional.py`
+- `modulo_turtle_3D_simplificado.py`
 
 ## Autor
 
-Luiz Ocosta oscar osman
+**Luiz Oscar da Costa**
